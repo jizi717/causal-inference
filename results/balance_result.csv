@@ -1,0 +1,16 @@
+﻿,匹配前SMD,匹配后SMD,是否平衡(<0.1)
+tenure,0.8313,0.0599,是
+MonthlyCharges,0.1652,0.2723,否
+TotalCharges,0.738,0.0755,是
+is_fiber,0.4643,0.2654,否
+is_month_to_month,0.9474,0.028,是
+is_two_year,0.6923,0.0107,是
+is_electronic_check,0.5032,0.0637,是
+is_autopay,0.4485,0.0645,是
+is_senior,0.2705,0.0536,是
+has_partner,0.3223,0.0448,是
+has_dependents,0.3042,0.0334,是
+is_paperless,0.2217,0.0174,是
+is_female,0.0137,0.0241,是
+n_other_services,0.4506,0.0193,是
+ps,1.5563,0.0,是
